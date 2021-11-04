@@ -11,8 +11,3 @@
 * [markdown-it](https://www.npmjs.com/package/markdown-it)
 * [highlight.js](https://highlightjs.org/)
 * [markdown-js](https://github.com/evilstreak/markdown-js)
-
-
-https://codepen.io/heerschop/pen/qgJymB
-https://codepen.io/heerschop/pen/bzmjrY
-https://worldvectorlogo.com/downloaded/amazon-web-services
